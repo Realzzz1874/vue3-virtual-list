@@ -1,2 +1,2 @@
 # vue3-virtual-list
-virtual-list component for Vue3
+virtual-list component for Vue3.
